@@ -7,3 +7,5 @@ languages:
   - html
   - css
 resources: 2
+
+parent_template: git@github.com:learn-co-curriculum/scraping-kickstarter.git

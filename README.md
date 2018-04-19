@@ -294,6 +294,4 @@ end
 We did it! Run the test suite and you should see that all of the tests are passing.
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/scraping-kickstarter' title='Scraping Kickstarter'>Scraping Kickstarter</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/scraping-kickstarter'>Kickstarter Scraping Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T1 Scraping Kickstarter</p>
